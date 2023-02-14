@@ -1,0 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<header style="position:fixed; top:0px; height:40px; line-height:40px; left:0px; width:100%; background-color:orange; text-align:center; font-size:40px">
+<b>수강신청 도우미 사이트</b></header>
+<nav style="position:fixed; top:40px; height:40px; line-heignt:40px; left:0px;width:100%; pedding-left:20px; background-color:yellow">
+	<a href="insert.jsp">교과목목록 조회/수정</a>&nbsp;&nbsp;
+	<a href="">교과목 추가</a>
+	<a href="">홈으로</a>
+</nav>
+</body>
+</html>

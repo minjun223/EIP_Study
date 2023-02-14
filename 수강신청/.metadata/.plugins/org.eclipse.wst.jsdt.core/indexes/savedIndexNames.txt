@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\user\Desktop\산업기사\0204\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4075397830.index
+1624993638.index
+4231107415.index
+3783434359.index
+1572592615.index
+1090078676.index
